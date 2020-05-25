@@ -1,8 +1,8 @@
 # GhoticvaniaPrototype
 
-Prototype developed for: Henrique Gonçalves
+Coded by: Henrique Gonçalves
 
-Assets developed for: https://ansimuz.itch.io/gothicvania-swamp
+Assets by: https://ansimuz.itch.io/gothicvania-swamp
 
 Demo Music by Pascal Belisle https://soundcloud.com/pascalbelisle 
 

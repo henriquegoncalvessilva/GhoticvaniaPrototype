@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gothicvania/SceneGothicvania.unity
+    guid: c65900e3e83b61c49a275e37575480ea
   m_configObjects: {}

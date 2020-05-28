@@ -222,7 +222,10 @@ public class Player_Gothicvania : MonoBehaviour
             anim.SetBool("Jump", false);
 
         }
-
+        if (collision.gameObject.tag == "Respawn")
+        {
+            this.gameObject.transform.position = new Vector3(-1.93f, 0.1f, -6.14f);
+        }
 
     }
 
@@ -271,9 +274,9 @@ public class Player_Gothicvania : MonoBehaviour
 
         }
 
+       
+
     }
-
-
     #endregion
 
 
